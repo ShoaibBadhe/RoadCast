@@ -5,4 +5,4 @@ Create a simple python flask application with 2 endpoints '/PostgreSQL' and '/My
 
 I have added photos of output and used phpmyadmin and phppgadmin for mysql and postgresql respectively.
 
-Note . Create a folder 'templates'and move html files in that folder as shown in the image attached to get output.
+Note . Create a folder 'templates'and move html files in that folder to get output.
